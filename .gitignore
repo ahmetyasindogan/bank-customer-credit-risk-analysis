@@ -1,0 +1,6 @@
+Ham veri dosyaları (Kaggle'dan indirilir, repoya konmaz)
+data/raw/
+
+Power BI geçici dosyaları
+~$*.pbix
+*.pbix.bak
